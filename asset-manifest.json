@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Samsung-Clone-Website-React/static/css/main.4ceede44.css",
-    "main.js": "/Samsung-Clone-Website-React/static/js/main.27a95850.js",
+    "main.css": "/Samsung-Clone-Website-React/static/css/main.7d1b6db8.css",
+    "main.js": "/Samsung-Clone-Website-React/static/js/main.8185516a.js",
     "static/js/787.8c6d47fa.chunk.js": "/Samsung-Clone-Website-React/static/js/787.8c6d47fa.chunk.js",
     "static/media/file.png": "/Samsung-Clone-Website-React/static/media/file.bf7b2485837279ce1472.png",
     "index.html": "/Samsung-Clone-Website-React/index.html",
-    "main.4ceede44.css.map": "/Samsung-Clone-Website-React/static/css/main.4ceede44.css.map",
-    "main.27a95850.js.map": "/Samsung-Clone-Website-React/static/js/main.27a95850.js.map",
+    "main.7d1b6db8.css.map": "/Samsung-Clone-Website-React/static/css/main.7d1b6db8.css.map",
+    "main.8185516a.js.map": "/Samsung-Clone-Website-React/static/js/main.8185516a.js.map",
     "787.8c6d47fa.chunk.js.map": "/Samsung-Clone-Website-React/static/js/787.8c6d47fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ceede44.css",
-    "static/js/main.27a95850.js"
+    "static/css/main.7d1b6db8.css",
+    "static/js/main.8185516a.js"
   ]
 }
